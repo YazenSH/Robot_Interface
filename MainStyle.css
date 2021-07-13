@@ -1,0 +1,36 @@
+body{
+ margin: 0;
+ padding: 0;
+background: #0C2D48;
+}
+
+.Container {
+  margin: auto;
+  width: 500px ;
+  border: none;
+  color: #C3E0E5 ;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 20px;
+  margin-top : 200px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.B{
+font-size: 20px;
+font-family: "montserrat";
+margin: 10px;
+padding: 10px 20px;
+background-color: #C3E0E5; 
+color: black; 
+border: 2px solid #303841;
+position: relative;
+align-items: center;
+}
+
+.B:hover {
+background-color: #41729F;
+color: #F5F5F5  ;
+  
+}
